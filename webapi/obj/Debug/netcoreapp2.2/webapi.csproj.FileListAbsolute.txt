@@ -1,0 +1,14 @@
+E:\new project\aspcore\webapi\webapi\bin\Debug\netcoreapp2.2\webapi.deps.json
+E:\new project\aspcore\webapi\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.json
+E:\new project\aspcore\webapi\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.dev.json
+E:\new project\aspcore\webapi\webapi\bin\Debug\netcoreapp2.2\webapi.dll
+E:\new project\aspcore\webapi\webapi\bin\Debug\netcoreapp2.2\webapi.pdb
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cache
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cs
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.dll
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
+E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache
