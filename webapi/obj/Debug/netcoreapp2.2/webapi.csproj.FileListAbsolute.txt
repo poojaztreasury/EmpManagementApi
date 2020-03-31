@@ -11,4 +11,3 @@ E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo
 E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
 E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.dll
 E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
-E:\new project\aspcore\webapi\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache

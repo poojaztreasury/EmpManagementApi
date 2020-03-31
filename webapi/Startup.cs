@@ -28,7 +28,12 @@ namespace webapi
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddCors(c =>
             {
-                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            c.AddPolicy("AllowAllOrigin", options =>
+            {
+                options.AllowAnyOrigin();
+                options.AllowAnyHeader();
+                options.AllowAnyMethod();
+            });
             });
 
         }
@@ -48,7 +53,7 @@ namespace webapi
 
             app.UseHttpsRedirection();
             app.UseMvc();
-            app.UseCors(options => options.AllowAnyOrigin());
+            app.UseCors("AllowAllOrigin");
 
 
         }
